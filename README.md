@@ -8,6 +8,8 @@
   I focus on API's and Databases
 <p align="center">
   I work on all kinds of stuff!
+<p align="center">
+  1/2 Of Anomaly. Long Live the project
 <br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
