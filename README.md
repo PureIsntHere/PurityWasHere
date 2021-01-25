@@ -15,5 +15,5 @@
 </a>
 <br></br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurityWasHere&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurityWasHere&show_icons=true&theme=dark" />
 </a>
