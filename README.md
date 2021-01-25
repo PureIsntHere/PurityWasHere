@@ -9,7 +9,7 @@
 <p align="center">
   I work on all kinds of stuff!
 <p align="center">
-  1/2 Of an Anomaly.
+  1/2 of an Anomaly.
 <br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
