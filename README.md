@@ -5,7 +5,7 @@
 <p align="center">
   I Work with Python, JS, And C#
 <p align="center">
-  I focus on API / Databases
+  I focus on API's and Databases
 <p align="center">
   I work on all kinds of stuff!
 <br></br>
