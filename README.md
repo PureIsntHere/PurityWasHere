@@ -8,7 +8,12 @@
   I focus on API / Databases
 <p align="center">
   I work on all kinds of stuff!
+<br></br>
 
-  [![Pure's github stats](https://github-readme-stats.vercel.app/api?username=PurityWasHere&theme=dark)](https://github.com/PurityWasHere/github-readme-stats&theme=dark)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurityWasHere&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurityWasHere&theme=dark" />
+</a>
+<br></br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurityWasHere&theme=dark" />
+</a>
