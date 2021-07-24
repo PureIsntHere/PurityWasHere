@@ -1,7 +1,7 @@
 ### Hi! Im Pure 👋
 
 <p align="center">
-  I'm a 20 Year old Computer Science student in Silicon Valley
+  I'm a 21 Year old Computer Science student in Silicon Valley
 <p align="center">
   I Work with Python, JS, And C#
 <p align="center">
